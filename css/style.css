@@ -1,0 +1,140 @@
+/* selection location */
+.py-section{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.bg-section{
+    background-color: #f2f8f2;
+}
+.text-center{
+    text-align: center;
+}
+.wrapper-location{
+    background-color:rgb(226, 223, 223) ;
+    padding: 50px;
+}
+.font-ninito{
+    font-family:'Nunito', sans-serif;
+}
+.bg-primary{
+    background-color:green ;
+}
+
+/* heeder 
+==============*/
+header{
+
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.wrapper-header__nav a{
+    padding:0 10px;
+    color: #fff;
+}
+.wrapper-header__logo{
+    border: 2px #fff solid; 
+    color: rgb(207, 14, 14);
+    font-weight: 900;
+    border-radius: 10px;
+    padding: 5px;
+}
+.logo-to{
+    color: #fff;
+    box-shadow:10px 15px 10px cornsilk ;
+}
+.container{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+/* footer */
+footer{
+    padding: 20px;
+    color: white;
+}
+.wrapper-header_hero{
+    background-image: url("https://images.unsplash.com/photo-1576398289164-c48dc021b4e1") ;
+    height: 600px; ;
+    background-position: center;
+    background-size: cover;
+}
+.wrapper-main{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.wrapper-main__h2{
+    font-size: 25px;
+    text-align: center;
+    color: blue;
+}
+/* Section welcome 
+========================*/
+.wrapper-main__welcome-block1{
+    display: flex;
+    gap: 30px;
+    background-position: centre;
+    background-size: cover;
+    margin: 50px 200px;
+
+}
+img{
+    width: 250px;
+    height: 300px;
+}
+/* section location 
+=====================*/
+
+.wrapper-location__1{
+    justify-content:center;
+    align-items: center;
+}
+.city{
+    box-shadow: 1px 1px 1px rgb(104, 235, 104);
+    margin: 1em;
+    padding: 2.5em;
+    border-radius: 15px;
+    font-size: 22px;
+    text-align: center;
+    width: 18%;
+    background-color: #fff;
+}
+.d-flex{
+    display: flex;
+}
+.wrraper-main__h2{
+    font-family:'Nunito', sans-serif;
+}
+/* section teams
+================= */
+.wrraper-teams__bloc1 {
+    align-items: center;
+    margin: 50px 300px;
+    gap: 20px 70px;
+}
+.box-team{
+    display: flex;
+    padding: 10px 5px 10px;  
+}
+.wrraper-teams__bloc1-description h3{
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.wrraper-teams img{
+    height: 300px;
+    width: 200px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 4px rgb(136,136,136);
+}
+.f-reverse{
+    flex-direction: row-reverse;
+}
+/* sections products */
+.wrraper-btn{
+    margin-top: 60px;
+    padding: 30px;
+    background-color: rgb(171, 229, 171);
+    width:20%;
+    margin: 60px auto;
+}
+
