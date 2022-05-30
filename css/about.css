@@ -4,16 +4,13 @@
 .wrapper-header__hero{
     height: 50vh;
 }
-.container secction-contact{
+.section-about{
     padding-top: 80px;
     padding-bottom: 80px;
-
 }
-.container section-contact h2 {
-    font-size: 3rem;
+.section-about h2{
     text-align: center;
+    font-size: 3rem;
     padding-bottom: 30px;
-}
-.bottom{
-    bottom: 2px;
+    
 }
